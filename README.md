@@ -19,8 +19,8 @@ Hi, I'm ███ 👋
 
 ## 🎧 Now Playing on Spotify
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31paicu4jjlfkbs4glal3445mjoe&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=00ffff&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-![Aesthetic Divider](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+<p align="center"> [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31paicu4jjlfkbs4glal3445mjoe&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=00ffff&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+![Aesthetic Divider](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer) </p>
 
 ## 📫 Reach Me
 

@@ -6,7 +6,7 @@ Hi, I'm **Alisa** 👋
 
 ![gif](https://i.postimg.cc/0Nh4FCdZ/2cf13c9b16e68774aeaaa12f812d0f0e25a56548.gif)
 
----
+![Aesthetic Divider](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 ## 💫 About Me
 
@@ -15,13 +15,13 @@ Hi, I'm **Alisa** 👋
 * 🧪 Currently experimenting with **APIs & Supabase**
 * 🌱 Always learning something new
 
----
+![Aesthetic Divider](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 ## 🎧 Now Playing on Spotify
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31paicu4jjlfkbs4glal3445mjoe&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=00ffff&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
----
+![Aesthetic Divider](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 ## 📫 Reach Me
 

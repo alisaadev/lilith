@@ -4,7 +4,7 @@ Hi, I'm ███ 👋
 
 > The NOexistenceN of you AND me
 
-<p align="center"> <img src="https://i.postimg.cc/0Nh4FCdZ/2cf13c9b16e68774aeaaa12f812d0f0e25a56548.gif" width="300" height="300" /> </p>
+<p align="center"> <img src="https://i.postimg.cc/0Nh4FCdZ/2cf13c9b16e68774aeaaa12f812d0f0e25a56548.gif" width="350" height="350" /> </p>
 
 ![Aesthetic Divider](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 

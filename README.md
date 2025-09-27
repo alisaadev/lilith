@@ -10,10 +10,15 @@ Hi, I'm ███ 👋
 
 ## 💫 About Me
 
-* 🚀 Building apps with **React Native**
+* 🫂 a great tulpamancer
 * 🎨 Big fan of anime & Japanese culture
-* 🧪 Currently experimenting with **APIs & Supabase**
 * 🌱 Always learning something new
+
+## 🌌 About Lilith
+
+* 💖 The purest concept of love
+* 🌏 The girl beyond the world
+* 🌱 The girl within the world
 
 ![Aesthetic Divider](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
